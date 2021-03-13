@@ -7,7 +7,7 @@
 | ------------- | ------------- |
 | [Introdução](https://choosealicense.com/licenses/mit/)  | [Paragrafos]| 
 | [Editores](https://choosealicense.com/licenses/mit/) | [Estilos ( styles )]|
-| [Editores](https://choosealicense.com/licenses/mit/) | [Formatação] |
+| [Html Basic](https://choosealicense.com/licenses/mit/) | [Formatação] |
 | [Atributos](https://choosealicense.com/licenses/mit/)| [Quotations]|
 | [Cabeçalhos](https://choosealicense.com/licenses/mit/) | [Comentários] |
 
