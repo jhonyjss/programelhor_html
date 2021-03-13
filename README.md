@@ -5,32 +5,32 @@
 
 | Dia 1 | Dia 2 |
 | ------------- | ------------- |
-| [Introdução](https://choosealicense.com/licenses/mit/)  | [Paragrafos](https://choosealicense.com/licenses/mit/) | 
-| [Editores](https://choosealicense.com/licenses/mit/) | [Estilos ( styles )](https://choosealicense.com/licenses/mit/) |
-| [Editores](https://choosealicense.com/licenses/mit/) | [Formatação](https://choosealicense.com/licenses/mit/) |
-| [Atributos](https://choosealicense.com/licenses/mit/)| [Quotations](https://choosealicense.com/licenses/mit/) |
-| [Cabeçalhos](https://choosealicense.com/licenses/mit/) | [Comentários](https://choosealicense.com/licenses/mit/) |
+| [Introdução](https://choosealicense.com/licenses/mit/)  | [Paragrafos]| 
+| [Editores](https://choosealicense.com/licenses/mit/) | [Estilos ( styles )]|
+| [Editores](https://choosealicense.com/licenses/mit/) | [Formatação] |
+| [Atributos](https://choosealicense.com/licenses/mit/)| [Quotations]|
+| [Cabeçalhos](https://choosealicense.com/licenses/mit/) | [Comentários] |
 
 | Dia 3 | Dia 4 |
 | ------------- | ------------- |
-| [Cores](https://choosealicense.com/licenses/mit/)  | [Lists](https://choosealicense.com/licenses/mit/) | 
-| [CSS Básico](https://choosealicense.com/licenses/mit/) | [Block e Inline )](https://choosealicense.com/licenses/mit/) |
-| [Links](https://choosealicense.com/licenses/mit/) | [Classes](https://choosealicense.com/licenses/mit/) |
-| [Images](https://choosealicense.com/licenses/mit/)| [Id](https://choosealicense.com/licenses/mit/) |
-| [Tables](https://choosealicense.com/licenses/mit/) | [Iframes](https://choosealicense.com/licenses/mit/) |
+| [Cores]  | [Lists] | 
+| [CSS Básico] | [Block e Inline )] |
+| [Links] | [Classes] |
+| [Images]| [Id] |
+| [Tables] | [Iframes] |
 
 | Dia 5 | Dia 6 |
 | ------------- | ------------- |
-| [Javascript Básico](https://choosealicense.com/licenses/mit/)  | [Computer Code](https://choosealicense.com/licenses/mit/) | 
-| [File Paths](https://choosealicense.com/licenses/mit/) | [Semantics](https://choosealicense.com/licenses/mit/) |
-| [Head](https://choosealicense.com/licenses/mit/) | [Entidades](https://choosealicense.com/licenses/mit/) |
-| [Layout](https://choosealicense.com/licenses/mit/)| [Symbols](https://choosealicense.com/licenses/mit/) |
-| [Responsividade](https://choosealicense.com/licenses/mit/) | [Charset](https://choosealicense.com/licenses/mit/) |
+| [Javascript Básico]  | [Computer Code]| 
+| [File Paths] | [Semantics]|
+| [Head] | [Entidades] |
+| [Layout]| [Symbols] |
+| [Responsividade]| [Charset]|
 
 | Dia 7 | Dia 8 |
 | ------------- | ------------- |
-| [HTML Forms](https://choosealicense.com/licenses/mit/)  | [Canvas](https://choosealicense.com/licenses/mit/) | 
-| [HTML Forms Atributos](https://choosealicense.com/licenses/mit/) | [Svg](https://choosealicense.com/licenses/mit/) |
-| [HTML Input Types](https://choosealicense.com/licenses/mit/) | [HTML Media](https://choosealicense.com/licenses/mit/) |
-| [HTML Input Atributos](https://choosealicense.com/licenses/mit/)| [HTML Video](https://choosealicense.com/licenses/mit/) |
-| [HTML Input Form Atributos](https://choosealicense.com/licenses/mit/) | [HTML Plugins](https://choosealicense.com/licenses/mit/) |
+| [HTML Forms] | [Canvas] | 
+| [HTML Forms Atributos] | [Svg] |
+| [HTML Input Types] | [HTML Media] |
+| [HTML Input Atributos]| [HTML Video] |
+| [HTML Input Form Atributos] | [HTML Plugins] |
